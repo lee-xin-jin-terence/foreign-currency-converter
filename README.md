@@ -22,7 +22,7 @@ Made possible by using <a href="https://www.nuget.org/packages/GoogleCurrencyCon
 
 
 ## Skills:
-   **Languages/Frameworks:** Xamarin.Forms, C# (.NET)<br/><br/>
+   **Languages/Frameworks:** Window Forms (WinForms), Visual Basic .NET (.NET)<br/><br/>
    **Tools:** Visual Studio, NuGet Package Manager<br/><br/>
-   **API:** GoogleCurrencyConverter API<br/><br/>
+   **API:** GoogleCurrencyConverter .NET library by KamilSzymborski<br/><br/>
 

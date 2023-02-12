@@ -17,7 +17,7 @@ A simple cross-platform app (Android & iOS) for viewing of weather data of sever
     
 <br/><br/>
 
-Made possible by using <a href="https://openweathermap.org/" target="_blank">OpenWeatherMap API</a><br/><br/>
+Made possible by using <a href="https://www.nuget.org/packages/GoogleCurrencyConverter/" target="_blank">.NET Google Currency Converter library by KamilSzymborski</a><br/><br/>
 
 
 

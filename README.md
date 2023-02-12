@@ -24,5 +24,5 @@ Made possible by using <a href="https://www.nuget.org/packages/GoogleCurrencyCon
 ## Skills:
    **Languages/Frameworks:** Window Forms (WinForms), Visual Basic .NET (.NET)<br/><br/>
    **Tools:** Visual Studio, NuGet Package Manager<br/><br/>
-   **API:** GoogleCurrencyConverter .NET library by KamilSzymborski<br/><br/>
+   **API:** Google Currency Converter API<br/><br/>
 

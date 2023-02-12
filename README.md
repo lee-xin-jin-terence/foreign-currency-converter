@@ -1,7 +1,7 @@
 # Foreign Currency Converter App
 
 
-A simple cross-platform app (Android & iOS) for viewing of weather data of several cities.<br/><br/>
+A simple Window Forms Desktop application for converting (calculating) Singapore Dollar currency to foreign currency rates <br/><br/>
 
 **Author:** Terence Lee Xin Jin<br/><br/>
 

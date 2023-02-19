@@ -62,7 +62,7 @@ Public Class ForeignCurrencyConverter
     ''' <returns>amount of money in target foreign currency converted from
     '''     singapore dollars</returns>
     Public Shared Async Function ConvertToCurrency(sgdValue As Decimal,
-                                targetForeignCurrency As Decimal) As Task(Of Decimal)
+                                targetForeignCurrency As TargetForeignCurrency) As Task(Of Decimal)
 
         Dim targetGoogleCurrency As GoogleCurrency =
                     ConvertTargetForeignCurrencyToGoogleCurrency(targetForeignCurrency)

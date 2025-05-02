@@ -46,7 +46,7 @@ Namespace ForeignCurrencyConverter.Models
 
         ''' <summary>
         ''' Converts the singapore value to a foreign currency value using the 
-        ''' external Google Currency Converter API library
+        ''' external Currency Converter API library
         ''' 
         ''' </summary>
         ''' <param name="sgdValue">value in singapore dollars to be converted to
@@ -86,7 +86,7 @@ Namespace ForeignCurrencyConverter.Models
                 options.value = sgdValue
 
                 targetCurrencyExchangeRate = New CurrencyConverterAPIClient(
-                ApiKeys.APIVerveKey, True).Execute(options).data.convertedValue
+                    ApiKeys.APIVerveKey, True).Execute(options).data.convertedValue
 
             Catch ex As Exception
 

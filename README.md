@@ -17,7 +17,7 @@ A simple Window Forms Desktop application for converting (calculating) Singapore
     
 <br/><br/>
 
-Made possible by using [https://www.nuget.org/packages/GoogleCurrencyConverter/](https://apiverve.com/?utm_source=nuget) .NET Currency Converter library by APIVerve</a><br/><br/>
+Made possible by using a .NET Currency Converter library by APIVerve</a><br/><br/>
 
 
 

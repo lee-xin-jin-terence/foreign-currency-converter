@@ -24,7 +24,7 @@ Made possible by using a .NET Currency Converter library by APIVerve</a><br/><br
 ## Skills:
    **Languages/Frameworks:** Window Forms (WinForms), Visual Basic .NET (.NET)<br/><br/>
    **Tools:** Visual Studio, NuGet Package Manager<br/><br/>
-   **API:** Google Currency Converter API<br/><br/>
+   **API:** APIVerve Currency Converter API<br/><br/>
 
 
 ## Screenshots:
